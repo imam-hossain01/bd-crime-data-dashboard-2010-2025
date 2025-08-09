@@ -5,7 +5,7 @@ Interactive Power BI dashboard visualizing Bangladesh crime trends from 2010 to 
 An interactive visualization summarizing crime trends across Bangladesh between **2010 and 2025**.  
 This dashboard highlights top crime categories, top units, year-wise distribution, and detailed case category filtering.
 
-![Crime Data Dashboard](images/crime-dashboard.png)
+![Crime Data Dashboard](Screenshot 2025-08-09 121832.png)
 
 ## Key insights
 - **Total Crimes (2010–2025):** 2,723.66K  
